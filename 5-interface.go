@@ -20,7 +20,7 @@ func DriveCar(human Human) {
 	if human.say() == "Mr.Mike" {
 		fmt.Print("run\n")
 	} else {
-		fmt.Println("get out\n")　
+		fmt.Println("get out\n")
 	}
 }
 
